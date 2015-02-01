@@ -1,7 +1,9 @@
-EMDColorPalettes
-=============
+# EMDColorPalettes-Xcode
+Xcode plug-in for working with edelabar/EMDPalettes UIColor category to allow code-completion of colors from OSX color palettes.
 
-An Xcode plugin that works with the UIColor+EMDColorPalettes category to allow code-completion of colors from OSX color palettes.
+## Status
+
+**NOT READY FOR USE.**  This plug-in is currently **VERY** unstable.  Please check back soon for a working version, unless of course you'd like to help. 
 
 ## How do I use it?
 
