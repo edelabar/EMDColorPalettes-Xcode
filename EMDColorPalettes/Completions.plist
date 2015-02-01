@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>classAndMethod</key>
+		<string>olor colorNamed:</string>
+		<key>methodDeclaration</key>
+		<string> colorNamed:</string>
+		<key>methodName</key>
+		<string>colorNamed</string>
+		<key>comment</key>
+		<string>UIColor colorNamed: method from the UIColor+ColorPalette category</string>
+	</dict>
+</array>
+</plist>
